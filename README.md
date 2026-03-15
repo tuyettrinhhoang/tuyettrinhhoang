@@ -31,39 +31,6 @@
 
 ---
 
-## 📂 Projects
-
-### 🍳 Cook4U – Home Cooking Service Web Platform
-**Team Project – Frontend Developer**
-
-- Implemented responsive UI components and layouts using **ReactJS** and **TailwindCSS**
-- Developed features such as **authentication**, **chef browsing**, **menu searching**, and **order scheduling**
-- Collaborated with team members using **Git** for version control
-- Participated in writing technical documentation and project reports
-
-🔗 Repo: **[COOK4U](https://github.com/tuyettrinhhoang/COOK4U)**
-
----
-
-### 📚 Tutor Support System
-**Academic Team Project – Documentation Contributor**
-
-- Participated in **system analysis** and requirement discussion
-- Contributed to writing **technical documentation** and project reports
-- Collaborated with team members during the development process
-
-🔗 Repo: **[Tutor-Support-System](https://github.com/tuyettrinhhoang/Tutor-Support-System)**
-
----
-
-## 🏆 Achievements
-
-- 🥉 **Third Prize** – Provincial Mathematics Competition, Dong Nai (2023)
-- 📘 **VNU-HCM Competency Assessment 2023:** 895 / 1200
-- 🇬🇧 **English score (THPTQG 2023):** 9.0 / 10
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
