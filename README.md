@@ -49,17 +49,6 @@ https://github.com/tuyettrinhhoang/Tutor-Support-System
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tuyettrinhhoang&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyettrinhhoang&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### 📫 Contact
 
