@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Thi Tuyet Trinh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Computer+Science+student+at+HCMUT;Frontend+Developer+%7C+ReactJS;Interested+in+Web+Development+and+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Computer+Science+student+at+HCMUT;Interested+in+Web+Development+and+Software+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,6 @@
 - 🎓 Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**
 - 💻 Interested in **Web Development** and **Software Engineering**
 - ⚛️ Building responsive web interfaces with **HTML, CSS, JavaScript, and ReactJS**
-- 🌱 Currently improving my **frontend development** and **problem-solving** skills
 - 🤝 Open to internship and learning opportunities in **Software Engineering**
 
 ---
